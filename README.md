@@ -4,7 +4,7 @@ This project implements a chatbot using **Retrieval-Augmented Generation (RAG)**
 
 ---
 
-## 📌 Features
+## Features
 
 - **General Chat**: Interact with the LLM for general knowledge or casual queries.
 - **PDF Upload and Query**: Upload PDFs and ask questions based on the content within those documents.
@@ -14,7 +14,7 @@ This project implements a chatbot using **Retrieval-Augmented Generation (RAG)**
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the Repository
 
